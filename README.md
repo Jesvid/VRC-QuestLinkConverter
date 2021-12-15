@@ -4,7 +4,7 @@ Vrchat prefab convertidor de links de youtube para quest.
 # Requerimientos:
 Ultima version de VRChat Sdk 3.
 Ultima version de UdonSharp.
-Compatible con reproductor https://github.com/MerlinVR/USharpVideo
+Compatible con reproductor UsharpVideo
 
 # Instrucciones:
 Para que funcione debe existir un reproductor en el mundo en version pc y otro en version quest.
