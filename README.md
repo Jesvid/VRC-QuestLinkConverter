@@ -6,6 +6,9 @@ Ultima version de VRChat Sdk 3.
 Ultima version de UdonSharp.
 Compatible con reproductor UsharpVideo
 
+# Descargar:
+https://github.com/Jesvid/VRC-QuestLinkConverter/releases/latest
+
 # Instrucciones:
 Para que funcione debe existir un reproductor en el mundo en version pc y otro en version quest.
 Los usuarios de pc podran ingresar sus links de youtube (no listas de reproduccion) en el convertidor, convertirlo y luego pegar ese link en el reproductor.
