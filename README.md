@@ -20,7 +20,7 @@ Los usuarios de pc podran ingresar sus links de youtube (no listas de reproducci
 
 
 # Creditos:
-Esto es una implementacion de un servicio externo https://t-ne.x0.to/ el autor no se hacer responsable de los daños
+Esto es una implementacion de un servicio externo https://nextnex.com/ el autor no se hacer responsable de los daños
 causados por el uso de este servicio. 
 
 # License:
